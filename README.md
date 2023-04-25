@@ -1,0 +1,2 @@
+# azizul
+My personal repository
